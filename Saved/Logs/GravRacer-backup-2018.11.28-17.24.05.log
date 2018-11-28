@@ -1,0 +1,1709 @@
+﻿Log file open, 11/21/18 12:53:56
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GravRacer
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065719
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogStreaming: Display: Took  0.331s to configure plugins.
+LogInit: Using libcurl 7.48.0-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: Build: ++UE4+Release-4.21-CL-0
+LogInit: Engine Version: 4.21.0-0+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-0+++UE4+Release-4.21
+LogInit: Net CL: 0
+LogInit: OS: GenericOSVersionLabel (GenericOSSubVersionLabel), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): Nov  8 2018 20:21:03
+LogInit: Compiled with Clang: 6.0.1 (tags/RELEASE_601/final)
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: /home/katze/Desktop/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[r.RHICmdBypass:1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Engine.ini]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Engine.ini]
+[2018.11.21-11.53.57:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Engine.ini]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Engine.ini]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.21-11.53.57:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Engine.ini]
+[2018.11.21-11.53.57:773][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Engine.ini]
+[2018.11.21-11.53.57:773][  0]LogInit: Initializing SDL.
+[2018.11.21-11.53.57:830][  0]LogInit: Initialized SDL 2.0.8 revision: 11184 (hg-12121:4358e537000a with EpicExtensions) (compiled against 2.0.8)
+[2018.11.21-11.53.57:830][  0]LogInit: Using SDL video driver 'x11'
+[2018.11.21-11.53.57:830][  0]LogInit: Display metrics:
+[2018.11.21-11.53.57:830][  0]LogInit:   PrimaryDisplayWidth: 1920
+[2018.11.21-11.53.57:830][  0]LogInit:   PrimaryDisplayHeight: 1080
+[2018.11.21-11.53.57:830][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2018.11.21-11.53.57:830][  0]LogInit:     Left=67, Top=27, Right=1920, Bottom=1080
+[2018.11.21-11.53.57:830][  0]LogInit:   VirtualDisplayRect:
+[2018.11.21-11.53.57:830][  0]LogInit:     Left=67, Top=27, Right=1920, Bottom=1080
+[2018.11.21-11.53.57:830][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.11.21-11.53.57:830][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.11.21-11.53.57:830][  0]LogInit:   Number of monitors: 1
+[2018.11.21-11.53.57:830][  0]LogInit:     Monitor 0
+[2018.11.21-11.53.57:830][  0]LogInit:       Name: 0
+[2018.11.21-11.53.57:830][  0]LogInit:       ID: display0
+[2018.11.21-11.53.57:830][  0]LogInit:       NativeWidth: 1920
+[2018.11.21-11.53.57:830][  0]LogInit:       NativeHeight: 1080
+[2018.11.21-11.53.57:830][  0]LogInit:       bIsPrimary: true
+[2018.11.21-11.53.57:831][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.21-11.53.57:831][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.21-11.53.57:831][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.11.21-11.53.57:831][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Linux]
+[2018.11.21-11.53.57:839][  0]LogHAL: Display: Platform has ~ 4 GB [8221036544 / 4294967296 / 8], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.21-11.53.57:839][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.21-11.53.57:839][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.21-11.53.57:839][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Scalability.ini]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.21-11.53.57:840][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [/home/katze/Desktop/GravRacer/Saved/Config/Linux/Engine.ini]
+[2018.11.21-11.53.57:840][  0]LogConfig: Setting CVar [[g.TimeoutForBlockOnRenderFence:60000]]
+[2018.11.21-11.53.57:840][  0]LogInit: Unix hardware info:
+[2018.11.21-11.53.57:840][  0]LogInit:  - we are the first instance of this executable
+[2018.11.21-11.53.57:840][  0]LogInit:  - this process' id (pid) is 19246, parent process' id (ppid) is 1
+[2018.11.21-11.53.57:840][  0]LogInit:  - we are not running under debugger
+[2018.11.21-11.53.57:840][  0]LogInit:  - machine network name is 'thunderbirdV2'
+[2018.11.21-11.53.57:840][  0]LogInit:  - user name is 'katze' (katze)
+[2018.11.21-11.53.57:840][  0]LogInit:  - we're logged in locally
+[2018.11.21-11.53.57:840][  0]LogInit:  - we're running with rendering
+[2018.11.21-11.53.57:840][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz' (signature: 0x506E3)
+[2018.11.21-11.53.57:840][  0]LogInit:  - Number of physical cores available for the process: 4
+[2018.11.21-11.53.57:840][  0]LogInit:  - Number of logical cores available for the process: 8
+[2018.11.21-11.53.57:840][  0]LogInit:  - Cache line size: 64
+[2018.11.21-11.53.57:840][  0]LogInit:  - Memory allocator used: binned2
+[2018.11.21-11.53.57:840][  0]LogCore: Benchmarking clocks:
+[2018.11.21-11.53.57:840][  0]LogCore:  - CLOCK_REALTIME (id=0) can sustain 44587695 (44588K, 45M) calls per second without zero deltas.
+[2018.11.21-11.53.57:840][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 45707867 (45708K, 46M) calls per second without zero deltas.
+[2018.11.21-11.53.57:840][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 3298668 (3299K, 3M) calls per second without zero deltas.
+[2018.11.21-11.53.57:840][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 151693179 (151693K, 152M) calls per second with 99.999829% zero deltas.
+[2018.11.21-11.53.57:840][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2018.11.21-11.53.57:840][  0]LogInit: Unix-specific commandline switches:
+[2018.11.21-11.53.57:840][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2018.11.21-11.53.57:840][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2018.11.21-11.53.57:840][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2018.11.21-11.53.57:840][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2018.11.21-11.53.57:840][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2018.11.21-11.53.57:840][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2018.11.21-11.53.57:840][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2018.11.21-11.53.57:840][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2018.11.21-11.53.57:840][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2018.11.21-11.53.57:841][  0]LogInit:  - Physical RAM available (not considering process quota): 8 GB (7840 MB, 8028356 KB, 8221036544 bytes)
+[2018.11.21-11.53.57:841][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2018.11.21-11.53.57:841][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2018.11.21-11.53.57:969][  0]LogInit: Using OS detected language (en-US).
+[2018.11.21-11.53.57:969][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.21-11.53.57:969][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.21-11.53.58:337][  0]LogStreaming: Display: Took  0.369s to InitEngineTextLocalization.
+[2018.11.21-11.53.58:389][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.21-11.53.58:389][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.21-11.53.59:369][  0]LogInit: Using SDL_WINDOW_OPENGL
+[2018.11.21-11.53.59:382][  0]LogRHI: Initializing OpenGL RHI
+[2018.11.21-11.53.59:382][  0]LogRHI:   GL_VENDOR: NVIDIA Corporation
+[2018.11.21-11.53.59:382][  0]LogRHI:   GL_RENDERER: GeForce GTX 960M/PCIe/SSE2
+[2018.11.21-11.53.59:382][  0]LogRHI:   GL_VERSION: 4.3.0 NVIDIA 390.77
+[2018.11.21-11.53.59:382][  0]LogRHI:   GL_SHADING_LANGUAGE_VERSION: 4.30 NVIDIA via Cg compiler
+[2018.11.21-11.53.59:383][  0]LogRHI: OpenGL Extensions:
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_AMD_multi_draw_indirect
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_AMD_seamless_cubemap_per_texture
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_arrays_of_arrays
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_base_instance
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_bindless_texture
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_blend_func_extended
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_buffer_storage
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_clear_buffer_object
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_clear_texture
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_clip_control
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_color_buffer_float
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_compressed_texture_pixel_storage
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_conservative_depth
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_compute_shader
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_compute_variable_group_size
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_conditional_render_inverted
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_copy_buffer
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_copy_image
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_cull_distance
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_debug_output
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_depth_buffer_float
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_depth_clamp
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_depth_texture
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_derivative_control
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_direct_state_access
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_draw_buffers
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_draw_buffers_blend
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_draw_indirect
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_draw_elements_base_vertex
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_draw_instanced
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_enhanced_layouts
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_ES2_compatibility
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_ES3_compatibility
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_ES3_1_compatibility
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_ES3_2_compatibility
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_explicit_attrib_location
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_explicit_uniform_location
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_fragment_coord_conventions
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_fragment_layer_viewport
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_fragment_program
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_fragment_program_shadow
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_fragment_shader
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_framebuffer_no_attachments
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_framebuffer_object
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_framebuffer_sRGB
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_geometry_shader4
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_get_program_binary
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_get_texture_sub_image
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_gl_spirv
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_gpu_shader5
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_gpu_shader_fp64
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_gpu_shader_int64
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_half_float_pixel
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_half_float_vertex
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_imaging
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_indirect_parameters
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_instanced_arrays
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_internalformat_query
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_internalformat_query2
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_invalidate_subdata
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_map_buffer_alignment
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_map_buffer_range
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_multi_bind
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_multi_draw_indirect
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_multisample
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_multitexture
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_occlusion_query
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_occlusion_query2
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_parallel_shader_compile
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_pipeline_statistics_query
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_pixel_buffer_object
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_point_parameters
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_point_sprite
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_polygon_offset_clamp
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_program_interface_query
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_provoking_vertex
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_query_buffer_object
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_robust_buffer_access_behavior
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_robustness
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_sample_shading
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_sampler_objects
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_seamless_cube_map
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_seamless_cubemap_per_texture
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_separate_shader_objects
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_atomic_counter_ops
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_atomic_counters
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_ballot
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_bit_encoding
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_clock
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_draw_parameters
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_group_vote
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_image_load_store
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_image_size
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_objects
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_precision
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_storage_buffer_object
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_subroutine
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_texture_image_samples
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shader_texture_lod
+[2018.11.21-11.53.59:383][  0]LogRHI:   GL_ARB_shading_language_100
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_shading_language_420pack
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_shading_language_include
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_shading_language_packing
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_shadow
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_sparse_buffer
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_sparse_texture
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_spirv_extensions
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_stencil_texturing
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_sync
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_tessellation_shader
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_barrier
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_border_clamp
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_buffer_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_buffer_object_rgb32
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_buffer_range
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_compression
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_compression_bptc
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_compression_rgtc
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_cube_map
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_cube_map_array
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_env_add
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_env_combine
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_env_crossbar
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_env_dot3
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_filter_anisotropic
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_float
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_gather
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_mirror_clamp_to_edge
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_mirrored_repeat
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_multisample
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_non_power_of_two
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_query_levels
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_query_lod
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_rectangle
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_rg
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_rgb10_a2ui
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_stencil8
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_storage
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_storage_multisample
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_swizzle
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_texture_view
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_timer_query
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_transform_feedback2
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_transform_feedback3
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_transform_feedback_instanced
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_transform_feedback_overflow_query
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_transpose_matrix
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_uniform_buffer_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_array_bgra
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_array_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_attrib_64bit
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_attrib_binding
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_buffer_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_program
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_shader
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_type_10f_11f_11f_rev
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_vertex_type_2_10_10_10_rev
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_viewport_array
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ARB_window_pos
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ATI_draw_buffers
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ATI_texture_float
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_ATI_texture_mirror_once
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_S3_s3tc
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_env_add
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_abgr
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_bgra
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_bindable_uniform
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_blend_color
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_blend_equation_separate
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_blend_func_separate
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_blend_minmax
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_blend_subtract
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_compiled_vertex_array
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_Cg_shader
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_depth_bounds_test
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_direct_state_access
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_draw_buffers2
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_draw_instanced
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_draw_range_elements
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_fog_coord
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_framebuffer_blit
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_framebuffer_multisample
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXTX_framebuffer_mixed_formats
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_framebuffer_multisample_blit_scaled
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_framebuffer_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_framebuffer_sRGB
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_geometry_shader4
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_gpu_program_parameters
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_gpu_shader4
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_multi_draw_arrays
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_packed_depth_stencil
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_packed_float
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_packed_pixels
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_pixel_buffer_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_point_parameters
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_polygon_offset_clamp
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_provoking_vertex
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_rescale_normal
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_secondary_color
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_separate_shader_objects
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_separate_specular_color
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_shader_image_load_formatted
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_shader_image_load_store
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_shader_integer_mix
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_shadow_funcs
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_stencil_two_side
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_stencil_wrap
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture3D
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_array
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_buffer_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_compression_dxt1
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_compression_latc
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_compression_rgtc
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_compression_s3tc
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_cube_map
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_edge_clamp
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_env_combine
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_env_dot3
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_filter_anisotropic
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_integer
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_lod
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_lod_bias
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_mirror_clamp
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_shared_exponent
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_sRGB
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_sRGB_decode
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_storage
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_texture_swizzle
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_timer_query
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_transform_feedback2
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_vertex_array
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_vertex_array_bgra
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_vertex_attrib_64bit
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_window_rectangles
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_x11_sync_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_import_sync_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_robustness_video_memory_purge
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_IBM_rasterpos_clip
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_IBM_texture_mirrored_repeat
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_KHR_context_flush_control
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_KHR_debug
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_memory_object
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_memory_object_fd
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_KHR_parallel_shader_compile
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_KHR_no_error
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_KHR_robust_buffer_access_behavior
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_KHR_robustness
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_semaphore
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_EXT_semaphore_fd
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_KTX_buffer_region
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_alpha_to_coverage_dither_control
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_bindless_multi_draw_indirect
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_bindless_multi_draw_indirect_count
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_bindless_texture
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_blend_equation_advanced
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_blend_equation_advanced_coherent
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_blend_minmax_factor
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_blend_square
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_command_list
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_compute_program5
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_conditional_render
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_copy_depth_to_color
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_copy_image
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_depth_buffer_float
+[2018.11.21-11.53.59:384][  0]LogRHI:   GL_NV_depth_clamp
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_draw_texture
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_draw_vulkan_image
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_ES1_1_compatibility
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_ES3_1_compatibility
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_explicit_multisample
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_fence
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_float_buffer
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_fog_distance
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_fragment_program
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_fragment_program_option
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_fragment_program2
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_framebuffer_multisample_coverage
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_geometry_shader4
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_gpu_program4
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_internalformat_sample_query
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_gpu_program4_1
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_gpu_program5
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_gpu_program5_mem_extended
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_gpu_program_fp64
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_gpu_shader5
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_half_float
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_light_max_exponent
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_multisample_coverage
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_multisample_filter_hint
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_occlusion_query
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_packed_depth_stencil
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_parameter_buffer_object
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_parameter_buffer_object2
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_path_rendering
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_pixel_data_range
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_point_sprite
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_primitive_restart
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_query_resource
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_query_resource_tag
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_register_combiners
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_register_combiners2
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_shader_atomic_counters
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_shader_atomic_float
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_shader_atomic_int64
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_shader_buffer_load
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_shader_storage_buffer_object
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texgen_reflection
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_barrier
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_compression_vtc
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_env_combine4
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_multisample
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_rectangle
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_rectangle_compressed
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_shader
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_shader2
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_texture_shader3
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_transform_feedback
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_transform_feedback2
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_uniform_buffer_unified_memory
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vdpau_interop
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_array_range
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_array_range2
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_attrib_integer_64bit
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_buffer_unified_memory
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_program
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_program1_1
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_program2
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_program2_option
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_vertex_program3
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NVX_conditional_render
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NVX_gpu_memory_info
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NVX_nvenc_interop
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_shader_thread_group
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_NV_shader_thread_shuffle
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_KHR_blend_equation_advanced
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_KHR_blend_equation_advanced_coherent
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_SGIS_generate_mipmap
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_SGIS_texture_lod
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_SGIX_depth_texture
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_SGIX_shadow
+[2018.11.21-11.53.59:385][  0]LogRHI:   GL_SUN_slice_accum
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_TEXTURE_SIZE: 16384
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_ARRAY_TEXTURE_LAYERS: 2048
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_3D_TEXTURE_SIZE: 2048
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_RENDERBUFFER_SIZE: 16384
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_DRAW_BUFFERS: 8
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_COLOR_ATTACHMENTS: 8
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_SAMPLES: 32
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_COLOR_TEXTURE_SAMPLES: 32
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_DEPTH_TEXTURE_SAMPLES: 32
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_INTEGER_SAMPLES: 32
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 192
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_VERTEX_ATTRIBS: 16
+[2018.11.21-11.53.59:386][  0]LogRHI:   GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[2018.11.21-11.53.59:386][  0]LogRHI: OpenGL MajorVersion = 4, MinorVersion = 3, ShaderPlatform = GLSL_430, FeatureLevel = SM5
+[2018.11.21-11.53.59:386][  0]LogRHI: FOpenGLProgramBinaryCache disabled by r.ProgramBinaryCache.Enable=0
+[2018.11.21-11.53.59:392][  0]LogRHI: Texture pool is 2867 MB (70% of 4096 MB)
+[2018.11.21-11.53.59:945][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.21-11.54.00:074][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.21-11.54.00:210][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.21-11.54.00:332][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.21-11.54.00:454][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.21-11.54.00:576][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-11.54.00:753][  0]LogTargetPlatformManager: Display: Building Assets For Linux
+[2018.11.21-11.54.01:107][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../GravRacer/Intermediate/Shaders/WorkingDirectory/19246/).
+[2018.11.21-11.54.01:107][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../GravRacer/Intermediate/Shaders/tmp/0003AD8F08D64FB068D405AC3C228D2B/'.
+[2018.11.21-11.54.01:107][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.21-11.54.02:049][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.21-11.54.02:119][  0]LogDerivedDataCache: Loaded boot cache 0.07s 83MB ../../../../GravRacer/DerivedDataCache/Boot.ddc.
+[2018.11.21-11.54.02:119][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../GravRacer/DerivedDataCache/Boot.ddc
+[2018.11.21-11.54.02:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GravRacer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.21-11.54.02:120][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.21-11.54.02:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.21-11.54.02:120][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2018.11.21-11.54.02:120][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2018.11.21-11.54.02:120][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.21-11.54.02:120][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.21-11.54.02:149][  0]LogMaterial: Verifying Global Shaders for GLSL_430
+[2018.11.21-11.54.02:157][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.21-11.54.02:158][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+[2018.11.21-11.54.02:248][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2018.11.21-11.54.02:545][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.11.21-11.54.03:030][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.21-11.54.03:030][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.21-11.54.03:030][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.21-11.54.03:030][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2018.11.21-11.54.03:030][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.21-11.54.03:030][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2018.11.21-11.54.03:050][  0]LogNetVersion: GravRacer 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2853239877)
+[2018.11.21-11.54.03:745][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.047530 seconds
+[2018.11.21-11.54.03:760][  0]LogUObjectArray: 38837 objects as part of root set at end of initial load.
+[2018.11.21-11.54.03:760][  0]LogUObjectAllocator: 6741896 out of 0 bytes used by permanent object pool.
+[2018.11.21-11.54.03:760][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.21-11.54.03:977][  0]LogHAL: Linux SourceCodeAccessSettings: NullSourceCodeAccessor
+[2018.11.21-11.54.04:781][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.21-11.54.04:782][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.21-11.54.04:782][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:782][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:782][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:782][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:782][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.21-11.54.04:782][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.21-11.54.04:783][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:783][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:783][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:783][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:783][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.21-11.54.04:783][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.21-11.54.04:783][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:783][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:784][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:784][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:784][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.21-11.54.04:784][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.21-11.54.04:784][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:784][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:784][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.21-11.54.04:784][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.21-11.54.04:787][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.21-11.54.04:787][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.21-11.54.04:788][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:788][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:788][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:788][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:788][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.21-11.54.04:788][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.21-11.54.04:788][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:788][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.11.21-11.54.04:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.11.21-11.54.04:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:790][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.11.21-11.54.04:790][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.11.21-11.54.04:790][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:790][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:790][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:790][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:790][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.21-11.54.04:790][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.21-11.54.04:790][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:790][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:791][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:791][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:791][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.21-11.54.04:791][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.21-11.54.04:791][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:791][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:791][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:791][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:792][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.11.21-11.54.04:792][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.11.21-11.54.04:792][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:792][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:792][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:792][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:792][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.11.21-11.54.04:792][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.11.21-11.54.04:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.11.21-11.54.04:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.11.21-11.54.04:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:794][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:794][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:794][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.21-11.54.04:794][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.21-11.54.04:794][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:794][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:794][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:794][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:794][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.21-11.54.04:794][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.21-11.54.04:795][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:795][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:795][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:795][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:795][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.11.21-11.54.04:795][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.11.21-11.54.04:795][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:795][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:796][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:796][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:796][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.11.21-11.54.04:796][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.11.21-11.54.04:796][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:796][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:796][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:796][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:796][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.21-11.54.04:797][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.21-11.54.04:797][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:797][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:797][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:797][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:797][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.21-11.54.04:797][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.21-11.54.04:797][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:797][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:798][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:798][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:798][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.11.21-11.54.04:798][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.11.21-11.54.04:798][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:798][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:798][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:798][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:799][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.11.21-11.54.04:799][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.11.21-11.54.04:799][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:799][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:799][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:799][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:799][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.11.21-11.54.04:799][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.11.21-11.54.04:800][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:800][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.04:800][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.21-11.54.04:800][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.21-11.54.08:816][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.21-11.54.08:819][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.21-11.54.09:885][  0]SourceControl: Source control is disabled
+[2018.11.21-11.54.09:885][  0]SourceControl: Source control is disabled
+[2018.11.21-11.54.09:995][  0]SourceControl: Source control is disabled
+[2018.11.21-11.54.10:330][  0]SourceControl: Source control is disabled
+[2018.11.21-11.54.12:616][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.21-11.54.15:270][  0]LogEngine: Initializing Engine...
+[2018.11.21-11.54.15:270][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.21-11.54.15:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.21-11.54.15:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.21-11.54.15:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.21-11.54.15:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.21-11.54.15:586][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.21-11.54.15:990][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.11.21-11.54.16:000][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2018.11.21-11.54.16:006][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.11.21-11.54.16:079][  0]LogInit: FAudioDevice initialized.
+[2018.11.21-11.54.16:081][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.21-11.54.16:159][  0]LogDerivedDataCache: Saved boot cache 0.08s 83MB ../../../../GravRacer/DerivedDataCache/Boot.ddc.
+[2018.11.21-11.54.16:171][  0]LogInit: Texture streaming: Enabled
+[2018.11.21-11.54.16:467][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.21-11.54.16:886][  0]LogInit: Transaction tracking system initialized
+[2018.11.21-11.54.17:607][  0]BlueprintLog: New page: Editor Load
+[2018.11.21-11.54.19:748][  0]LocalizationService: Localization service is disabled
+[2018.11.21-11.54.21:334][  0]LogFileCache: Scanning file cache for directory '/home/katze/Desktop/GravRacer/Content/' took 0.00s
+[2018.11.21-11.54.21:334][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.21-11.54.21:334][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.21-11.54.21:334][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.21-11.54.21:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.21-11.54.21:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.21-11.54.21:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.21-11.54.21:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.21-11.54.24:237][  0]SourceControl: Source control is disabled
+[2018.11.21-11.54.24:238][  0]Cmd: MAP LOAD FILE="../../../../GravRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-11.54.24:246][  0]LightingResults: New page: Lighting Build
+[2018.11.21-11.54.24:334][  0]MapCheck: New page: Map Check
+[2018.11.21-11.54.24:334][  0]LightingResults: New page: Lighting Build
+[2018.11.21-11.54.24:895][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.11.21-11.54.24:919][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-11.54.24:946][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-11.54.24:946][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2018.11.21-11.54.24:946][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 0.708
+[2018.11.21-11.54.24:958][  0]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.24:959][  0]LogLinux: Scale at X=993.500000, Y=553.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.24:992][  0]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.25:016][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-11.54.25:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-11.54.25:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-11.54.25:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-11.54.25:045][  0]LogCollectionManager: Loaded 0 collections in 0.002275 seconds
+[2018.11.21-11.54.25:056][  0]LogFileCache: Scanning file cache for directory '/home/katze/Desktop/GravRacer/Saved/Collections/' took 0.00s
+[2018.11.21-11.54.25:056][  0]LogFileCache: Scanning file cache for directory '/home/katze/Desktop/GravRacer/Content/Developers/katze/Collections/' took 0.00s
+[2018.11.21-11.54.25:056][  0]LogFileCache: Scanning file cache for directory '/home/katze/Desktop/GravRacer/Content/Collections/' took 0.00s
+[2018.11.21-11.54.25:056][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2619 classes and 583 folders.
+[2018.11.21-11.54.25:058][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.21-11.54.25:260][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.21-11.54.25:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.21-11.54.25:278][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.21-11.54.25:367][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.21-11.54.25:507][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.21-11.54.25:507][  0]LogLoad: (Engine Initialization) Total time: 29.91 seconds
+[2018.11.21-11.54.25:507][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.21-11.54.25:518][  0]LogRHI: Using OpenGL program LRU cache: 0
+[2018.11.21-11.54.25:518][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.21-11.54.25:522][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.21-11.54.25:529][  0]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.21-11.54.25:655][  0]LogInit: Adding external input plugin.
+[2018.11.21-11.54.25:721][  0]LogRenderer: Reallocating scene render targets to support 1168x584 Format 10 NumSamples 1 (Frame:1).
+[2018.11.21-11.54.25:721][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.21-11.54.25:814][  0]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-11.54.25:856][  0]LogSlate: Took 0.000057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.21-11.54.25:961][  2]LogAssetRegistry: Asset discovery search completed in 23.7132 seconds
+[2018.11.21-11.54.25:963][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.21-11.54.25:963][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.11.21-11.54.29:794][437]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.29:844][438]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-11.54.32:272][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-11.54.32:528][661]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.32:528][661]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.32:529][661]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.32:549][661]LogSlate: Took 0.000060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.21-11.54.32:657][661]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VehicleAdvBP/Blueprints/MainMenuWidget.MainMenuWidget
+[2018.11.21-11.54.32:661][661]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-11.54.32:675][661]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.32:675][661]LogLinux: Scale at X=998.500000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-11.54.33:284][661]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2018.11.21-11.54.33:946][661]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.21-11.54.33:998][663]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.13.39:596][301]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.13.39:596][301]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.13.39:602][301]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.13.47:457][994]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.13.47:458][994]LogLinux: Scale at X=555.000000, Y=273.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.13.47:460][994]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.13.47:630][994]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.14.02:274][994]LogSlate: Window 'Open File' being destroyed
+[2018.11.21-12.14.15:998][453]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.15:998][453]LogLinux: Scale at X=555.000000, Y=273.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.16:000][453]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.16:139][453]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.14.27:491][453]LogSlate: Window 'Open File' being destroyed
+[2018.11.21-12.14.27:504][453]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.27:504][453]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.27:505][453]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.27:672][453]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.14.27:676][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 /home/katze/Downloads/speaker.png)
+[2018.11.21-12.14.27:695][453]LogTexture: Display: Building textures: speaker (AutoDXT, 512X512)
+[2018.11.21-12.14.27:779][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 /home/katze/Downloads/music.png)
+[2018.11.21-12.14.27:799][453]LogTexture: Display: Building textures: music (AutoDXT, 512X512)
+[2018.11.21-12.14.33:914][992]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.33:914][992]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.33:915][992]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.34:039][992]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VehicleAdvBP/Blueprints/MainMenuWidget.MainMenuWidget
+[2018.11.21-12.14.34:044][992]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.14.34:051][992]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.34:051][992]LogLinux: Scale at X=998.500000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.14.34:460][994]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.15.03:940][189]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.03:940][189]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.03:940][189]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.04:085][190]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.15.21:070][317]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.21:070][317]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.21:070][317]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.21:209][318]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.15.24:130][521]LogSlate: Took 0.001344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.21-12.15.25:985][639]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.25:985][639]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.25:986][639]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.26:135][640]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.15.46:419][845]LogLinux: Scale at X=1777.500000, Y=285.700012: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.46:555][846]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.15.55:249][395]LogLinux: Scale at X=1766.000000, Y=773.000061: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.55:429][396]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.15.58:642][591]LogLinux: Scale at X=1766.000000, Y=762.000061: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.15.58:817][593]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.16.17:061][747]LogLinux: Scale at X=1766.000000, Y=773.000061: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.16.17:250][749]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.17.29:185][409]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.17.29:185][409]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.17.29:186][409]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.17.29:312][409]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.17.29:315][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/MainMenuWidget" FILE="../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2018.11.21-12.17.29:346][409]LogSavePackage: Moving '../../../../GravRacer/Saved/MainMenuWidgetCCBD502308D64FB3B02F223A901226F8.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset'
+[2018.11.21-12.17.29:503][420]Cmd: SELECT NONE
+[2018.11.21-12.17.31:222][540]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.17.31:222][540]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.17.31:228][540]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.17.32:515][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.21-12.17.32:524][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.17.32:524][670]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.21-12.17.32:533][670]LogPlayLevel: [PlayLevel] Compiling MainMenuWidget before play...
+[2018.11.21-12.17.32:693][670]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2018.11.21-12.17.32:694][670]PIE: New page: PIE session: VehicleAdvExampleMap (Nov 21, 2018, 2:17:32 PM)
+[2018.11.21-12.17.32:694][670]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.11.21-12.17.32:730][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035578s)
+[2018.11.21-12.17.32:731][670]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.11.21-12.17.32:731][670]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.11.21-12.17.32:731][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.036765s)
+[2018.11.21-12.17.32:752][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.11.21-12.17.32:752][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.11.21-12.17.32:752][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.11.21-12.17.32:752][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.11.21-12.17.32:752][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.11.21-12.17.32:752][670]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.11.21-12.17.32:752][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.11.21-12.17.32:753][670]LogAudioMixer: Display: Initializing audio mixer.
+[2018.11.21-12.17.32:753][670]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.11.21-12.17.32:840][670]LogInit: FAudioDevice initialized.
+[2018.11.21-12.17.32:873][670]LogLoad: Game class is 'VehicleAdVMenuMode_C'
+[2018.11.21-12.17.32:888][670]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.11.21-13.17.32
+[2018.11.21-12.17.32:889][670]LogWorld: Bringing up level for play took: 0.010537
+[2018.11.21-12.17.32:997][670]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.11.21-12.17.33:000][670]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.476
+[2018.11.21-12.17.33:000][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.17.39:367][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.21-12.17.52:073][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-12.17.52:073][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.17.52:119][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.21-12.17.52:119][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.17.52:202][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-12.17.52:280][930]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.21-12.22.01:015][540]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.01:015][540]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.01:016][540]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.01:134][540]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/VehicleAdvBP/MenuAssets/music.music
+[2018.11.21-12.22.01:243][540]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.01:243][540]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.21-12.22.01:253][540]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.01:253][540]LogLinux: Scale at X=998.500000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.01:349][540]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.06:063][878]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.06:063][878]LogSlate: Window 'music*' being destroyed
+[2018.11.21-12.22.06:066][878]LogSlate: Window 'music*' being destroyed
+[2018.11.21-12.22.07:743][ 20]LogLinux: Scale at X=514.000000, Y=568.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.07:885][ 22]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.08:772][ 89]LogLinux: Scale at X=710.000000, Y=671.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.08:796][ 89]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.10:416][194]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.10:416][194]LogLinux: Scale at X=655.000000, Y=173.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.10:418][194]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.10:566][194]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.11:891][194]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.21-12.22.11:898][194]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.11:898][194]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.11:900][194]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.12:057][194]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.15:691][367]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.15:691][367]LogLinux: Scale at X=555.000000, Y=273.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.15:696][367]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.15:838][367]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.21:730][367]LogSlate: Window 'Open File' being destroyed
+[2018.11.21-12.22.21:740][367]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.21:740][367]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.21:742][367]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.21:898][367]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.21:899][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 /home/katze/Downloads/music.png)
+[2018.11.21-12.22.21:919][367]LogTexture: Display: Building textures: music (AutoDXT, 512X512)
+[2018.11.21-12.22.26:118][765]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.26:119][765]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.26:130][765]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.26:256][765]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.26:261][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap" FILE="../../../../GravRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.21-12.22.26:671][765]LogSavePackage: Moving '../../../../GravRacer/Saved/VehicleAdvExampleMapCE06D10708D64FB46143D354A1C77131.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.11.21-12.22.26:687][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData" FILE="../../../../GravRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset" SILENT=true
+[2018.11.21-12.22.28:199][765]LogSavePackage: Moving '../../../../GravRacer/Saved/VehicleAdvExampleMap_BuiltDataCE08FAFC08D64FB4617046AAA1CBE322.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.11.21-12.22.29:596][922]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.29:596][922]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.29:597][922]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.29:717][922]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/VehicleAdvBP/MenuAssets/music.music
+[2018.11.21-12.22.29:725][922]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.29:725][922]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.29:725][922]LogLinux: Scale at X=998.500000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.29:827][922]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.22.52:448][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-12.22.52:539][712]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.22.52:539][712]LogSlate: Window 'music*' being destroyed
+[2018.11.21-12.22.52:555][712]LogSlate: Window 'music*' being destroyed
+[2018.11.21-12.23.01:235][521]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.01:235][521]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.01:236][521]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.01:371][521]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VehicleAdvBP/Blueprints/MainMenuWidget.MainMenuWidget
+[2018.11.21-12.23.01:375][521]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.23.01:383][521]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.01:383][521]LogLinux: Scale at X=998.500000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.01:790][521]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.23.12:244][276]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.12:244][276]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.12:244][276]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.12:396][277]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.23.15:175][434]LogLinux: Scale at X=1766.000000, Y=773.000061: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.15:364][436]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.23.19:125][688]Cmd: TRANSACTION UNDO
+[2018.11.21-12.23.19:125][688]LogEditorTransaction: Undo Edit Image
+[2018.11.21-12.23.19:156][688]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.19:156][688]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.19:156][688]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.19:366][695]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.23.20:166][741]LogLinux: Scale at X=1766.000000, Y=773.000061: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.23.20:349][743]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.24.31:242][886]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.24.31:242][886]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.24.31:242][886]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.24.31:420][887]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.25.11:947][217]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.11:947][217]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.11:947][217]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.12:136][218]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.25.20:935][694]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.20:935][694]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.20:935][694]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.21:107][695]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.25.30:888][138]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.30:888][138]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.30:888][138]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.31:048][139]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.25.44:459][901]LogLinux: Scale at X=1766.000000, Y=746.700012: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.25.44:635][902]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.26.06:237][ 71]LogLinux: Scale at X=1777.500000, Y=285.700012: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.26.06:383][ 73]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.26.56:903][211]LogSlate: Took 0.000063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.21-12.27.27:224][653]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.27:224][653]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.27:224][653]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.27:375][655]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.27.27:962][687]LogLinux: Scale at X=1571.000000, Y=593.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.28:017][689]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.27.37:453][350]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.37:453][350]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.37:453][350]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.37:614][352]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.27.38:668][424]LogLinux: Scale at X=552.000000, Y=673.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.38:731][426]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.27.40:625][557]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.40:625][557]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.40:625][557]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.40:788][559]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.27.57:364][691]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.57:364][691]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.57:364][691]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.57:514][693]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.27.58:837][782]LogLinux: Scale at X=762.000000, Y=565.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.27.58:898][784]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.28.02:915][ 74]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.28.02:915][ 74]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.28.02:915][ 74]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.28.03:074][ 76]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.28.17:193][198]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.28.17:193][198]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.28.17:202][198]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.28.17:325][198]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.28.17:329][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/MainMenuWidget" FILE="../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2018.11.21-12.28.17:360][198]LogSavePackage: Moving '../../../../GravRacer/Saved/MainMenuWidgetE10BC7BB08D64FB5326D98C0B6B20BFD.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset'
+[2018.11.21-12.29.03:782][ 97]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.03:782][ 97]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.03:784][ 97]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.03:910][ 97]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.29.03:914][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/MainMenuWidget" FILE="../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2018.11.21-12.29.03:945][ 97]LogSavePackage: Moving '../../../../GravRacer/Saved/MainMenuWidgetE144594708D64FB54E31D88CB978E025.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset'
+[2018.11.21-12.29.05:316][188]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.05:316][188]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.29.05:319][188]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.29.06:959][343]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.21-12.29.06:968][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.29.06:968][343]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.21-12.29.06:977][343]LogPlayLevel: [PlayLevel] Compiling MainMenuWidget before play...
+[2018.11.21-12.29.07:128][343]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2018.11.21-12.29.07:128][343]PIE: New page: PIE session: VehicleAdvExampleMap (Nov 21, 2018, 2:29:07 PM)
+[2018.11.21-12.29.07:128][343]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.11.21-12.29.07:160][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031528s)
+[2018.11.21-12.29.07:160][343]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.11.21-12.29.07:160][343]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2018.11.21-12.29.07:161][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.032143s)
+[2018.11.21-12.29.07:183][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.11.21-12.29.07:183][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.11.21-12.29.07:183][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.11.21-12.29.07:183][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.11.21-12.29.07:183][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.11.21-12.29.07:183][343]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.11.21-12.29.07:183][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.11.21-12.29.07:184][343]LogAudioMixer: Display: Initializing audio mixer.
+[2018.11.21-12.29.07:184][343]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.11.21-12.29.07:272][343]LogInit: FAudioDevice initialized.
+[2018.11.21-12.29.07:305][343]LogLoad: Game class is 'VehicleAdVMenuMode_C'
+[2018.11.21-12.29.07:317][343]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.11.21-13.29.07
+[2018.11.21-12.29.07:318][343]LogWorld: Bringing up level for play took: 0.009556
+[2018.11.21-12.29.07:323][343]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.354
+[2018.11.21-12.29.07:323][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.29.12:145][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-12.29.12:145][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.29.12:193][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.21-12.29.12:194][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.29.12:300][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-12.29.12:373][905]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.21-12.29.14:628][108]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.14:628][108]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.14:629][108]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.14:654][108]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VehicleAdvBP/Blueprints/MainMenuWidget.MainMenuWidget
+[2018.11.21-12.29.14:654][108]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.29.14:767][108]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.14:767][108]LogLinux: Scale at X=998.500000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.15:165][110]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.29.28:460][163]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.28:460][163]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.29.28:475][163]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.11.21-12.29.31:218][403]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.31:218][403]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.31:219][403]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.31:346][403]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VehicleAdvBP/Blueprints/MainMenuWidget.MainMenuWidget
+[2018.11.21-12.29.31:349][403]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.29.31:358][403]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.31:358][403]LogLinux: Scale at X=998.500000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.31:768][405]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.29.38:373][769]LogLinux: Scale at X=1720.500000, Y=531.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.38:525][770]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.29.43:323][ 65]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.29.43:323][ 65]LogSlate: Window 'MainMenuWidget*' being destroyed
+[2018.11.21-12.29.43:338][ 65]LogSlate: Window 'MainMenuWidget*' being destroyed
+[2018.11.21-12.29.44:609][184]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.21-12.29.44:618][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.29.44:618][184]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.21-12.29.44:627][184]LogPlayLevel: [PlayLevel] Compiling MainMenuWidget before play...
+[2018.11.21-12.29.44:776][184]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2018.11.21-12.29.44:776][184]PIE: New page: PIE session: VehicleAdvExampleMap (Nov 21, 2018, 2:29:44 PM)
+[2018.11.21-12.29.44:776][184]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.11.21-12.29.44:806][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030484s)
+[2018.11.21-12.29.44:807][184]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.11.21-12.29.44:807][184]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2018.11.21-12.29.44:807][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.031088s)
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.11.21-12.29.44:829][184]LogAudioMixer: Display: Initializing audio mixer.
+[2018.11.21-12.29.44:829][184]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.11.21-12.29.44:907][184]LogInit: FAudioDevice initialized.
+[2018.11.21-12.29.44:938][184]LogLoad: Game class is 'VehicleAdVMenuMode_C'
+[2018.11.21-12.29.44:950][184]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.11.21-13.29.44
+[2018.11.21-12.29.44:951][184]LogWorld: Bringing up level for play took: 0.009007
+[2018.11.21-12.29.44:955][184]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.336
+[2018.11.21-12.29.44:955][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.30.07:467][827]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.30.07:467][827]LogLinux: Scale at X=655.000000, Y=323.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.30.07:468][827]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.30.07:608][827]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.21-12.30.09:628][827]LogSlate: Window 'Save Content' being destroyed
+[2018.11.21-12.30.09:641][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/MainMenuWidget" FILE="../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2018.11.21-12.30.09:684][827]LogSavePackage: Moving '../../../../GravRacer/Saved/MainMenuWidgetE3B21A6608D64FB5755F167CBD63CE20.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/Blueprints/MainMenuWidget.uasset'
+[2018.11.21-12.30.09:692][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/MenuAssets/music" FILE="../../../../GravRacer/Content/VehicleAdvBP/MenuAssets/music.uasset" SILENT=true
+[2018.11.21-12.30.09:738][827]LogSavePackage: Moving '../../../../GravRacer/Saved/musicE3B4A67A08D64FB575666EC2BD648A27.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/MenuAssets/music.uasset'
+[2018.11.21-12.30.09:747][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/MenuAssets/speaker" FILE="../../../../GravRacer/Content/VehicleAdvBP/MenuAssets/speaker.uasset" SILENT=true
+[2018.11.21-12.30.09:796][827]LogSavePackage: Moving '../../../../GravRacer/Saved/speakerE3B7808108D64FB5756EE0C0BD65625C.tmp' to '../../../../GravRacer/Content/VehicleAdvBP/MenuAssets/speaker.uasset'
+[2018.11.21-12.30.09:797][827]LogLinux: Scale at X=67.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.11.21-12.30.09:834][827]LogSlate: Window 'GravRacer - Unreal Editor' being destroyed
+[2018.11.21-12.30.09:888][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.30.09:888][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-12.30.09:925][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.21-12.30.09:926][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.11.21-12.30.10:030][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-12.30.10:133][828]Cmd: QUIT_EDITOR
+[2018.11.21-12.30.10:203][828]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.21-12.30.10:203][828]LogExit: Preparing to exit.
+[2018.11.21-12.30.10:455][828]LogExit: Editor shut down
+[2018.11.21-12.30.10:456][828]LogExit: Transaction tracking system shut down
+[2018.11.21-12.30.10:747][828]LogExit: Object subsystem successfully closed.
+[2018.11.21-12.30.10:761][828]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.21-12.30.10:792][828]LogModuleManager: Shutting down and abandoning module TextureEditor (558)
+[2018.11.21-12.30.10:792][828]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.11.21-12.30.10:792][828]LogModuleManager: Shutting down and abandoning module Voice (554)
+[2018.11.21-12.30.10:792][828]LogModuleManager: Shutting down and abandoning module SlateFileDialogs (552)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module SequencerWidgets (550)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module BlueprintGraph (548)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (546)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module SceneOutliner (544)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module AddContentDialog (542)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module WidgetCarousel (541)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module EditorWidgets (538)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module CollectionManager (536)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module StatsViewer (534)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module FoliageEdit (532)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module LandscapeEditor (530)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module MeshPaintMode (528)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (526)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module ActorPickerMode (524)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module GeometryMode (522)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module TextureAlignMode (520)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module BspMode (518)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (516)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.11.21-12.30.10:793][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (510)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module SmartSnapping (508)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module CharacterAI (506)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (504)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module PlacementMode (503)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module MaterialEditor (502)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (498)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (496)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (494)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (492)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (490)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (488)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (486)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (484)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (482)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module WebMMedia (480)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (478)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module SequenceRecorder (477)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (474)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (472)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (470)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (461)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2018.11.21-12.30.10:794][828]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2018.11.21-12.30.10:795][828]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (452)
+[2018.11.21-12.30.10:795][828]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (451)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module LinuxPlatformEditor (446)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (444)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (442)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module InputBindingEditor (440)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module MergeActors (438)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (436)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module LocalizationService (435)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module HardwareTargeting (432)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (430)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module UndoHistory (428)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module XmlParser (426)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module Blutility (424)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (422)
+[2018.11.21-12.30.11:644][828]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (421)
+[2018.11.21-12.30.11:645][828]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (418)
+[2018.11.21-12.30.11:645][828]LogModuleManager: Shutting down and abandoning module SettingsEditor (416)
+[2018.11.21-12.30.11:645][828]LogModuleManager: Shutting down and abandoning module ProjectLauncher (414)
+[2018.11.21-12.30.11:645][828]LogModuleManager: Shutting down and abandoning module SessionFrontend (412)
+[2018.11.21-12.30.11:645][828]LogModuleManager: Shutting down and abandoning module ProfilerClient (410)
+[2018.11.21-12.30.11:645][828]LogModuleManager: Shutting down and abandoning module DeviceManager (408)
+[2018.11.21-12.30.11:645][828]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (407)
+[2018.11.21-12.30.11:665][828]LogModuleManager: Shutting down and abandoning module AutomationController (404)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module AutomationWindow (402)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module Layers (400)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (398)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module DetailCustomizations (396)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module PackagesDialog (394)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module Persona (392)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (391)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module AnimGraph (389)
+[2018.11.21-12.30.11:666][828]LogModuleManager: Shutting down and abandoning module Kismet (386)
+[2018.11.21-12.30.11:671][828]LogModuleManager: Shutting down and abandoning module GraphEditor (384)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module ClassViewer (382)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module Toolbox (380)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module DesktopPlatform (379)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module ModuleUI (376)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module MovieSceneTools (374)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module OutputLog (372)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module GammaUI (370)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module Documentation (368)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (366)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module MovieScene (364)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (362)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module LauncherPlatform (360)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module AnalyticsET (358)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module PortalServices (356)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module PortalRpc (354)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module MessagingRpc (352)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module AIModule (350)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module GameplayDebugger (349)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module AITestSuite (347)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module NavigationSystem (345)
+[2018.11.21-12.30.11:672][828]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (342)
+[2018.11.21-12.30.11:673][828]LogModuleManager: Shutting down and abandoning module ProfilerService (340)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module TaskGraph (338)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (336)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (334)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module Paper2DEditor (332)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module MeshPaint (331)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (328)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module AppleVisionBlueprintSupport (326)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module AppleVision (324)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module BackChannel (322)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (320)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (319)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.11.21-12.30.11:775][828]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (308)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module AppleImageUtils (306)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module VariantManagerContent (304)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (302)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module SteamVRController (300)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module AndroidPermission (298)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (296)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module CableComponent (294)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (292)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (290)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (288)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (286)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module EditableMesh (284)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module PluginBrowser (282)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module PolygonModeling (280)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module MeshEditor (278)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (276)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (274)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module CryptoKeys (272)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (270)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (268)
+[2018.11.21-12.30.11:776][828]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (266)
+[2018.11.21-12.30.11:777][828]LogModuleManager: Shutting down and abandoning module MediaCompositing (264)
+[2018.11.21-12.30.11:777][828]LogModuleManager: Shutting down and abandoning module LinearTimecode (262)
+[2018.11.21-12.30.11:777][828]LogModuleManager: Shutting down and abandoning module ImgMedia (260)
+[2018.11.21-12.30.11:777][828]LogModuleManager: Shutting down and abandoning module Media (259)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (256)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module KDevelopSourceCodeAccess (254)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module UObjectPlugin (252)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (250)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (248)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (246)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (244)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module GitSourceControl (242)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module SourceControl (241)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module CodeLiteSourceCodeAccess (238)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (236)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module AISupportModule (234)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module ActorSequence (228)
+[2018.11.21-12.30.11:783][828]LogModuleManager: Shutting down and abandoning module TcpMessaging (226)
+[2018.11.21-12.30.11:884][828]LogModuleManager: Shutting down and abandoning module UdpMessaging (224)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (220)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (218)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module PhysXVehicles (216)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (214)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module FacialAnimation (212)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (210)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module TreeMap (209)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (206)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module DataValidation (204)
+[2018.11.21-12.30.11:984][828]LogModuleManager: Shutting down and abandoning module LevelEditor (203)
+[2018.11.21-12.30.11:985][828]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (202)
+[2018.11.21-12.30.11:985][828]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (200)
+[2018.11.21-12.30.11:986][828]LogModuleManager: Shutting down and abandoning module MainFrame (198)
+[2018.11.21-12.30.11:986][828]LogModuleManager: Shutting down and abandoning module HotReload (197)
+[2018.11.21-12.30.11:986][828]LogModuleManager: Shutting down and abandoning module ContentBrowser (193)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module NullSourceCodeAccess (190)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (188)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.11.21-12.30.11:987][828]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.11.21-12.30.11:988][828]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module AudioMixerSDL (136)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module Core (132)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (123)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module MaterialBaking (119)
+[2018.11.21-12.30.11:990][828]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (115)
+[2018.11.21-12.30.12:099][828]LogModuleManager: Shutting down and abandoning module DerivedDataCache (112)
+[2018.11.21-12.30.12:145][828]LogDerivedDataCache: Shutdown
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module TargetPlatform (110)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (109)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (107)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (105)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (103)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (101)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (99)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (97)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (95)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module ImageWrapper (94)
+[2018.11.21-12.30.12:145][828]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (91)
+[2018.11.21-12.30.12:146][828]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (89)
+[2018.11.21-12.30.12:146][828]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (87)
+[2018.11.21-12.30.12:146][828]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (85)
+[2018.11.21-12.30.12:146][828]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (83)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (81)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (79)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (77)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (75)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (73)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (71)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module VulkanRHI (68)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2018.11.21-12.30.12:155][828]LogModuleManager: Shutting down and abandoning module HTTP (53)
+[2018.11.21-12.30.12:155][828]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.21-12.30.12:155][828]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B05D7ED43-08D6-4FB0-71D1-E64C3D08BD9C%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.21.0-0%2B%2B%2BUE4%2BRelease-4.21&UserID=0002cb63060b13080036007ac2558aca%7C%7Cb5842b0d704343ef84e704360a9accf4&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2018.11.21-12.30.12:185][828]LogModuleManager: Shutting down and abandoning module SSL (52)
+[2018.11.21-12.30.12:186][828]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.11.21-12.30.12:186][828]LogModuleManager: Shutting down and abandoning module DatasmithContent (44)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module SteamVR (42)
+[2018.11.21-12.30.12:187][828]LogHMD: Freeing OpenVRDLLHandle.
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module LinuxDeviceProfileSelector (40)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (38)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (36)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2018.11.21-12.30.12:187][828]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2018.11.21-12.30.12:188][828]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2018.11.21-12.30.12:188][828]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.21-12.30.12:189][828]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.21-12.30.12:190][828]LogExit: Exiting.
+[2018.11.21-12.30.12:190][828]LogInit: Tearing down SDL.
+[2018.11.21-12.30.12:205][828]Log file closed, 11/21/18 13:30:12
